@@ -1,0 +1,7 @@
+#comment can be placed...
+ket
+*.html
+
+!main.js
+
+
